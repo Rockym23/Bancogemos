@@ -1,0 +1,23 @@
+
+li:hover{
+    background-color: rgb(241, 166, 104);
+    
+}
+
+.active{
+    background-color: rgb(241, 166, 104);
+    color: rgb(0, 0, 0)  !important;
+}
+
+.menuOptions{
+    font-size: 18px;
+    font-weight: bold;   
+}
+
+.textColor{
+    color: rgb(255, 255, 255) !important;
+}
+
+a:hover{
+    color: rgb(0, 0, 0)  !important;
+}
